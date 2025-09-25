@@ -1,0 +1,18 @@
+{
+    "version": "4.0",
+    "description": "A fast, compact and innovative graphic viewer (with PlugIns)",
+    "homepage": "https://https://www.altap.cz/",
+    "architecture": {
+        "64bit": {
+            "url": [
+                "https://www.altap.cz/ftp/salamand/as40x64.exe#/dl.7z"
+            ],
+            "shortcuts": [
+                [
+                    "salamand.exe",
+                    "Salamander"
+                ]
+            ]
+        }
+    }
+}
